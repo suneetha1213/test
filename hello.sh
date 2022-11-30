@@ -1,8 +1,10 @@
+
+
 echo "hello"
 
 
 
 
-echo "hi"
-echo "ur name"
+echo "hi praise"
+echo "ur name pratyush"
 echo "kusi" 
