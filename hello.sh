@@ -1,2 +1,8 @@
 echo "hello"
-echo "hi
+
+
+
+
+echo "hi"
+echo "ur name"
+echo "kusi" 
